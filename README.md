@@ -26,7 +26,7 @@ selfbot.cc but with better performance &amp; made in NodeJS
 3. install all the packages if you havent and use node ., should say selfbot started for ...name (all settings you put into config.json will apply to these users too)
 
 # SKID
-Proof of 2tacey skiding this
+Proof of 2tacey skiding this [here](https://github.com/2tacey/22tacey-selfbot/commit/cbd212b49add338eff4ab2841d96585355567e44)
 <img src = "https://i.imgur.com/Gf3VoC5.png">
 
 # EXTRA
