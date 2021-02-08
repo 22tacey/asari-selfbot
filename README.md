@@ -24,3 +24,10 @@ selfbot.cc but with better performance &amp; made in NodeJS
 1. Go to **config.json.**
 2. change the token keys value to more than 1 token, example: "tokens": ‎‎["token1, "token2", "token3"]‎‎, can contain as many as you want them to.
 3. install all the packages if you havent and use node ., should say selfbot started for ...name (all settings you put into config.json will apply to these users too)
+
+# SKID
+Proof of 2tacey skiding this
+<img src = "https://i.imgur.com/Gf3VoC5.png">
+
+# EXTRA
+this is "22tacey selfbot" 
